@@ -46,8 +46,7 @@ figure {
     display: inline-block;
 }
 
-
-a {
+.links a {
     color: #ffffff;
     text-decoration: none;
     margin: 0px 0px 0px 25px;
@@ -68,7 +67,7 @@ p {
     margin-left: 25px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -96,15 +95,6 @@ p {
     text-align: center;
 }
 
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
 main {
     width: 75%;
     display: inline-block;
@@ -120,13 +110,22 @@ main h2 {
     font-size: 36px;
 }
 
-.footer {
+main section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }

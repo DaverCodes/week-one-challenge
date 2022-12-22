@@ -19,7 +19,6 @@ header {
     color: #d9dcd6;
 }
 
-
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -126,6 +125,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
